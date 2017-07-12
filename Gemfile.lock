@@ -41,6 +41,7 @@ GEM
     arel (8.0.0)
     builder (3.2.3)
     byebug (9.0.6)
+    coffee-script-source (1.8.0)
     concurrent-ruby (1.0.5)
     erubi (1.6.1)
     globalid (0.4.0)
@@ -110,6 +111,7 @@ PLATFORMS
 
 DEPENDENCIES
   byebug
+  coffee-script-source (= 1.8.0)
   puma (~> 3.7)
   rails (~> 5.1.2)
   sqlite3
